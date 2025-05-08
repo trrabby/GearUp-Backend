@@ -6,7 +6,7 @@
 
 ## 🌐 Live API
 
-> 🔗 [Gear Up Live Backend](https://-a8.vercel.app/)
+> 🔗 [Gear Up Live Backend](https://gearup-dusky.vercel.app/)
 
 ---
 

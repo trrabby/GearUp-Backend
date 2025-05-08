@@ -179,11 +179,12 @@ const config = {
     "db"
   ],
   "activeProvider": "postgresql",
+  "postinstall": false,
   "inlineDatasources": {
     "db": {
       "url": {
         "fromEnvVar": "DATABASE_URL",
-        "value": "postgresql://postgres:151015@localhost:5432/assignment-8?schema=public"
+        "value": null
       }
     }
   },
