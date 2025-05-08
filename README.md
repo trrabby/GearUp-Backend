@@ -16,7 +16,7 @@
 - **ORM**: Prisma
 - **Database**: PostgreSQL
 - **Validation**: Zod _(optional)_
-- **Deployment**: Render / Railway
+- **Deployment**: Vercel Neon
 - **Error Handling**: Centralized Global Error Handler
 
 ---
